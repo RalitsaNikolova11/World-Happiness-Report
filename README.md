@@ -37,10 +37,15 @@ DASHBOARD PREVIEW
 ![image](https://github.com/user-attachments/assets/d550fb72-522d-47b5-8053-d5ec0c6ed291)
 
 DATASET INFORMATION
+
 **Source:** [World Happiness Report (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)
+
 **Years Covered:** 2015–2019
+
 **File Format:** CSV files imported into Excel
+
 **Key Columns:** 
+
 - Country, Region, Year
 - Overall Rating, Happiness Score, GDP per Capita, Perceived Corruption
 - Social Support, Life Expectancy, Freedom, Generosity
