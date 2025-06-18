@@ -51,8 +51,8 @@ a country and region-level through an interactive dashboard.
 
 **Key Columns:** 
 - Country, Region, Year
-- Overall Rating, Happiness Score, GDP per Capita, Perceived Corruption
-- Social Support, Life Expectancy, Freedom, Generosity
+- Happiness Score, GDP per Capita, Perceived Corruption
+
 
 
 
