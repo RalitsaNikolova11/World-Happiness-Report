@@ -22,20 +22,20 @@ a country and region-level through an interactive dashboard.
 
 ## Analysis and Charts
 1. Happiness Score Trends (2015 - 2019)
-- Line chart with slicers to filter by country and/or region
+ - Line chart with slicers to filter by country and/or region
 
 2. Biggest % Changes in Happiness Score
-- Top 5 countries with the biggest positive and negative % change, respectively
-- Visualised with a column chart
+ - Top 5 countries with the biggest positive and negative % change, respectively
+ - Visualised with a column chart
 
 3. Happiness vs Corruption
-- Correlation visualised with a scatter plot
+ - Correlation visualised with a scatter plot
 
 4. Happiness vs GDP per Capita
-- Scatter plot showing the relationship
+ - Scatter plot showing the relationship
 
 5. Regional Happiness Trends
-- Multi-line chart comparing happiness trends by region over the period
+ - Multi-line chart comparing happiness trends by region over the period
 
 
 ## Dashboard Preview
@@ -51,11 +51,8 @@ a country and region-level through an interactive dashboard.
 ## Dataset Information
 
 **Source:** [World Happiness Report (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)
-
 **Years Covered:** 2015–2019
-
 **File Format:** CSV files imported into Excel
-
 **Key Columns:** 
 - Country, Region, Year
 - Happiness Score, GDP per Capita, Perceived Corruption
