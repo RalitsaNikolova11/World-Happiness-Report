@@ -50,12 +50,9 @@ a country and region-level through an interactive dashboard.
 
 ## Dataset Information
 
-**Source:** [World Happiness Report (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data) 
-
-**Years Covered:** 2015–2019
-
-**File Format:** CSV files imported into Excel
-
+**Source:** [World Happiness Report (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)   
+**Years Covered:** 2015–2019  
+**File Format:** CSV files imported into Excel  
 **Key Columns:** 
 - Country, Region, Year
 - Happiness Score, GDP per Capita, Perceived Corruption
