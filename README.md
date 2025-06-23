@@ -12,6 +12,16 @@ a country and region-level through an interactive dashboard.
 - Microsoft Excel – Power Query, Pivot Tables, Charts, and Slicers
 
 
+## Dataset Information
+
+**Source:** [World Happiness Report (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)   
+**Years Covered:** 2015–2019  
+**File Format:** CSV files imported into Excel  
+**Key Columns:** 
+- Country, Region, Year
+- Happiness Score, GDP per Capita, Perceived Corruption
+
+
 ## Data Cleaning Steps
 - Appended tables for the separate years using PowerQuery
 - Removed duplicates
@@ -47,15 +57,6 @@ a country and region-level through an interactive dashboard.
 - The biggest positive and negative % changes in happiness scores were observed predominantly in Sub-Saharan Africa
 - There is a strong positive correlation between happiness and GDP per capita
 - A weaker positive correlation exists between happiness and perceived corruption, suggesting that lower perceived corruption is linked to higher happiness
-
-## Dataset Information
-
-**Source:** [World Happiness Report (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)   
-**Years Covered:** 2015–2019  
-**File Format:** CSV files imported into Excel  
-**Key Columns:** 
-- Country, Region, Year
-- Happiness Score, GDP per Capita, Perceived Corruption
 
 
 
