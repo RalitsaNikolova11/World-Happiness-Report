@@ -48,9 +48,6 @@ a country and region-level through an interactive dashboard.
     - Multi-line chart comparing happiness trends by region over the period
 
 
-## Dashboard Preview
-![image](https://github.com/user-attachments/assets/d550fb72-522d-47b5-8053-d5ec0c6ed291)
-
 ## Key Insights
 - The overall happiness score has increased over the observed period
 - However, only 4 out of the 10 regions experienced an upward trend; the remaining 6 saw a decline
@@ -59,8 +56,5 @@ a country and region-level through an interactive dashboard.
 - A weaker positive correlation exists between happiness and perceived corruption, suggesting that lower perceived corruption is linked to higher happiness
 
 
-
-
-
-
-
+## Dashboard Preview
+![image](https://github.com/user-attachments/assets/d550fb72-522d-47b5-8053-d5ec0c6ed291)
